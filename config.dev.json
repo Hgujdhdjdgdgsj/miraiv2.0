@@ -7,14 +7,14 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "",
+    "EMAIL": "manaloapril89@gmail.com",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "April Pogi😎",
+    "PREFIX": "-",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "!",
+        ""
     ],
     "DATABASE": {
         "sqlite": {
